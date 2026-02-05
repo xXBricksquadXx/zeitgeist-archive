@@ -27,9 +27,11 @@ This repository serves as a digital vault for the **remastered edition** of _Zei
 
 ## 🎞️ MASTER ARCHIVE ACCESS
 
-The full **7.5GB Remastered Master** is too heavy for the standard web. It is hosted externally to bypass centralization constraints:
-
-[ 🔗 WATCH / DOWNLOAD MASTER ARCHIVE ](https://drive.google.com/file/d/YOUR_FILE_ID/view)
+| Node         | Type         | Status     | Link                                                                                                   |
+| :----------- | :----------- | :--------- | :----------------------------------------------------------------------------------------------------- |
+| **VAULT-01** | Google Drive | 🟢 ONLINE  | [🔗 ACCESS MASTER](https://drive.google.com/file/d/1dfOiK5uj4dXYP036ofWJ4-LkTfPIG2l9/view?usp=sharing) |
+| **VAULT-02** | Direct Link  | 🟢 ONLINE  | [💾 DIRECT DOWNLOAD](https://drive.google.com/uc?export=download&id=1dfOiK5uj4dXYP036ofWJ4-LkTfPIG2l9) |
+| **VAULT-03** | IPFS         | 🟡 PENDING | _Propagating..._                                                                                       |
 
 ---
 

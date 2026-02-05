@@ -32,7 +32,7 @@ export default function VideoHero() {
 
         <div className="flex flex-wrap justify-center gap-4">
           <a 
-            href="https://drive.google.com/file/d/YOUR_FILE_ID/view"
+            href="https://drive.google.com/file/d/1dfOiK5uj4dXYP036ofWJ4-LkTfPIG2l9/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 bg-red-700/90 hover:bg-red-600 text-white rounded-none font-bold transition-all border-l-4 border-red-500 shadow-[5px_5px_0px_0px_rgba(0,0,0,0.5)] active:translate-y-1 active:shadow-none"
