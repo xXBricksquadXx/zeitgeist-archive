@@ -13,10 +13,20 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Zeitgeist Archive | Nonprofit Preservation",
-  description: "A digital archive dedicated to the preservation of the 2007 Peter Joseph documentary, featuring a 1080p remastered edition.",
+  title: "ZEITGEIST | The Remastered Archive [2026]",
+  description: "Non-profit preservation of the 2007 historical archive. Dedicated to restoring and maintaining high-fidelity documented evidence for the public record.",
+  keywords: ["Zeitgeist", "Peter Joseph", "Remastered", "Documentary Archive", "History Preservation"],
   icons: {
-    icon: "/favicon.png", 
+    icon: "/favicon.png", // Ensure public/favicon.png exists
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
+  openGraph: {
+    title: "ZEITGEIST | The Remastered Archive",
+    description: "Truth is not told, it is realized.",
+    url: "https://zeitgeist-archive.vercel.app",
+    siteName: "Zeitgeist Archive",
+    type: "website",
   },
 };
 
