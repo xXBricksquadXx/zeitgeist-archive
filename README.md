@@ -54,4 +54,13 @@ To view the archive locally:
    npm run dev
    ```
    ***
-   _This is a non-profit preservation project. Documented evidence is the only currency._
+   ## 🗺️ THE ROADMAP
+
+- [x] **PHASE 1:** Establish digital vault and UI.
+- [x] **PHASE 2:** Deploy VAULT-01 (Legacy Encode).
+- [ ] **PHASE 3:** Encode VAULT-02 (High-Bitrate Handbrake Pass).
+- [ ] **PHASE 4:** AI-Upscaling (Topaz Neural Pass) for definitive 1080p clarity.
+
+---
+
+_This is a non-profit preservation project. Documented evidence is the only currency._
