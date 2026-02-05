@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🗄️ ZEITGEIST: THE ARCHIVE [2026]
 
-## Getting Started
+> **STATUS:** PRESERVED  
+> **INTENT:** NON-PROFIT EXPRESSION  
+> **ORIGIN:** PETER JOSEPH [2007]
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👁️ THE MISSION
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+"Truth is not told, it is realized."
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This repository serves as a digital vault for the **remastered edition** of _Zeitgeist (2007)_. In an era of shifting information and digital decay, this project exists to ensure the 1080p high-fidelity restoration remains accessible to those looking at the world from a critical perspective.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ TECH STACK (ARCHIVE CORE)
 
-## Learn More
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS 4.0
+- **Storage:** Decentralized via IPFS / Encapsulated via Google Cloud
+- **Deployment:** Vercel Edge
 
-To learn more about Next.js, take a look at the following resources:
+## 📁 REPOSITORY STRUCTURE
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `/src/app` - The Archive UI
+- `/public` - High-impact visual assets & preview loops
+- `/src/components` - Brutalist UI components
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎞️ MASTER ARCHIVE ACCESS
 
-## Deploy on Vercel
+The full **7.5GB Remastered Master** is too heavy for the standard web. It is hosted externally to bypass centralization constraints:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[ 🔗 WATCH / DOWNLOAD MASTER ARCHIVE ](https://drive.google.com/file/d/YOUR_FILE_ID/view)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## ⚡ LOCAL INITIALIZATION
+
+To view the archive locally:
+
+1. Clone the vault:
+
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/zeitgeist-archive.git](https://github.com/YOUR_USERNAME/zeitgeist-archive.git)
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Boot the system:
+   ```bash
+   npm run dev
+   ```
+   ***
+   _This is a non-profit preservation project. Documented evidence is the only currency._

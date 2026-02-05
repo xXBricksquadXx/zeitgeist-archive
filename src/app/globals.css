@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #07070a;
+  --accent: #b3191f;
+  --text-muted: rgba(255, 255, 255, 0.4);
+}
+
+body {
+  background: var(--bg);
+  color: white;
+  @apply antialiased overflow-x-hidden;
+}
+
+/* Custom Scrollbar for the Archive look */
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+}
+
+.hero-shadow {
+  text-shadow: 0 10px 50px rgba(0,0,0,0.8);
+}
